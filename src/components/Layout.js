@@ -189,6 +189,7 @@ const GlobalStyle = createGlobalStyle`
 const Footer = styled.footer`
   text-align: center;
   padding: 3rem 1rem;
+  margin-top:-20px;
   span {
     font-size: 0.75rem;
   }
