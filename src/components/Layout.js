@@ -208,7 +208,7 @@ const Layout = ({ children, customSEO }) => {
         {children}
         <Footer>
           &copy; 2019 by Harish Rana. All rights reserved. <br />
-          <a href="https://github.com/LekoArts/gatsby-starter-minimal-blog">GitHub Repository</a> <br />
+          <a href="https://github.com/harish-aka-shivi/portfolio">GitHub Repository</a> <br />
         {  
           // <span>Last build: {buildTime}</span>
         }

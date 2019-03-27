@@ -6,7 +6,7 @@ import { Link } from 'gatsby'
 import Button from '../components/Button.js';
 import Image from "../components/Image";
 import { publicDecrypt } from "crypto";
-import pic from '../../static/pic.jpeg';
+import pic from '../../static/profile-pic.jpeg';
 
 
 const Hero = styled.div`
@@ -50,7 +50,7 @@ export default () =>
         <Wrapper>
             <Hero>
             <Image
-            src={pic}
+            src="../../static/profile-pic.jpeg"
             >
             
             </Image>
