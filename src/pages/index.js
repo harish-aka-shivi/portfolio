@@ -62,7 +62,7 @@ export default () =>
             
 
             <IconsRow>
-                <a href="https://twitter.com/shivi_rana9"
+                <a href="https://twitter.com/harish_rana9"
                 target="_blank"
                 >
                     <Button 
